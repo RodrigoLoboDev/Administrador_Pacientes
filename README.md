@@ -19,7 +19,7 @@ Este es el frontend de **Administrador de Pacientes**, una aplicación web dise�
 
 ## 🎥 Prueba la Aplicación
 
-Puedes probar la aplicación en vivo visitando [este enlace en Netlify](https://tuenlace.netlify.app).
+Puedes probar la aplicación en vivo visitando [este enlace en Netlify](https://pacients-admin.netlify.app/).
 
 
 ## 📝 Funcionalidades Principales
@@ -42,7 +42,7 @@ src/
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/RodrigoLoboDev/REST_API_FRONTEND-PRODUCTS
+git clone https://github.com/RodrigoLoboDev/Administrador_Pacientes
 ```
 2. Instala las dependencias:
 
